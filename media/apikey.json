@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vision-api-219402",
+  "private_key_id": "d56b68dae17e33208ce220552ea78336a0a5fcb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7Z7LAYYAfIrPC\nsZydFDvodBnnEl4FMbz/UcWv9L/S2+ZrYiqkv7dM0oYt3T8tnavp2eyI6KLJWrlf\nAbQH75QdP0UC2jL0C+vxJzsp2XVNaous7XroxO/EsGQjkcK3inBRsdH61UFMN0Nk\n2xYYHUQYTLwON7KZYHOIhr11Bk8npp4FzSCHPCT6CZkkmrCWX4iilzFvDypcwK7G\nc0QiRZlG/ADHo2i21hsq+6+2qaZWWBGN0+Hsoy4MH+Q9sogz6TaXi5hGmbCYJsYa\nAgaqxvMyi5gA4borznXEWLZuvUpXYc2UudFaBpo1+exOBX13LRgnZZRiFPD5VuJQ\nPj0KEjWfAgMBAAECggEAFytaa7OCOhc5v0PjN35la7dS7oEUU7MTCUPsW3U4dBLQ\n2Yzg9c5oFJzgjvIQGg0o0HgraL/ORHOtgGP/BI4nszf7yb79VrPUn1N42pMyj/gw\nvZf8vqN+e0RNlSIzvypj+Y2xBsBv2sLoV6NIh4GyxghSpbVYJONKVWJHMR0vExkt\nrhvbe481a65OAPpkaP/chSC5ZxhvSinp2nDO66ON2m98a4hNk82lLafcPSKW4LRX\ns8SE+v03wGeLikT4iR/9PddYnXNGLNNb2casCn1dyorPzIW1XlbTfgcVUBXEZ2+E\nnYaMOAr3tSEoEHaWkU0EJU2jKeEpM9Qz+I2+i35VuQKBgQDl4S471w5tLy5h1eiI\noHjpug+2Phe55leJMLmbqfI22fqwdc/MTs87bvlmJ+4kUJpOiIMGgrd3wYCYslHC\nsoH19JtUNIIvutS3atfek+8v35swxYLJP5qj8bzjapLXEpUdfNUQFoV+yj5+U4El\ncNqnpAvGpjSWo+hpFD+ySxfBCQKBgQDQswDR2CP0pfIuDo+cO/hsi8IOxzDmFpuS\ne3bq6pcsFRi69/Z9E4zShKMcM+ribQTammQHC+MgWki53WohPTRPOReGOLx5Q0Lm\n4sZSU66qITR657jtei9eud4Fb9b12GIVhz7jZkDNkTVVYMERnkrPmsD+nHHYmqzl\nbIiUBwjzZwKBgAMEPXMTk2DjaZxnDjIcyPloM6SUlAMgfq2SMh1U0ZTer2d5ZEyu\nDBIflq48f+eCF0RIjk+bj4TGyUU3sdL4PLRZjWBBgCPYM8pkYIjPMChUqtis/tZd\nO05DcdMaJusjl0lXxgP8B6xuQvutZNh07qmcgXsN20rOw9H9LgjM63bhAoGAeenX\ndL4aYvP9wUHoSpAN0vrhZdiejApw3uUY1qornSjFxZLMfsxI20F4NyVs9NBSoZDH\nFgavq1qSWWEqejhSsmTbhSDnmL7d+hpHWBhiVCgJjDKJKNDTkzZoqCxpGjxJL+JN\nrnExMeS9jx5yKmSZtyTj0Nh6+NmCXpNERZTGeckCgYApESSsj/vimim+RfoYVb+g\nBNNUU3PC38c9EdFbd3SkuCoEWd1z/X+Ss7a1HARQhtXmgEd+st3A4R92lqgr7qFU\nZdAyTdMV+eZRIb6H3MWKkgV4Mo3kM5qPfklY7PH4DHySdwVRkQKPg44s5qhzGQWb\nAh7GKIbp7zpRTfC6YcD52g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pricehub-account@vision-api-219402.iam.gserviceaccount.com",
+  "client_id": "117500710931845336159",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pricehub-account%40vision-api-219402.iam.gserviceaccount.com"
+}
